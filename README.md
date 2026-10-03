@@ -1,4 +1,28 @@
-## Hi there 👋
+# Hi, I'm Cristian 👋
+
+I’m a homelab builder exploring networking, self-hosting, infrastructure automation, and practical AI.
+
+Most of what I work on starts as a real problem in my home lab: making systems easier to manage, more observable, more resilient, and less dependent on manual intervention.
+
+## Current interests
+
+- Self-hosted infrastructure
+- Home networking and VLAN design
+- Ansible and infrastructure automation
+- Monitoring and observability
+- AI for technical and non-technical workflows
+
+## Projects
+
+I’m beginning to publish selected projects here under **TechnoCB**.
+
+Some projects will remain private while they’re experimental or contain environment-specific details; others will be cleaned up and shared publicly when they’re useful beyond my own lab.
+
+## TechnoCB
+
+This GitHub account is the development home for **TechnoCB**.
+
+Website: coming soon at **technocb.net**
 
 <!--
 **technocb/technocb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
