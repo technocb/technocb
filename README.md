@@ -1,4 +1,4 @@
-# Hi, I'm Cristian 👋
+# Hi, I'm CB 👋
 
 I’m a homelab builder exploring networking, self-hosting, infrastructure automation, and practical AI.
 
@@ -14,13 +14,9 @@ Most of what I work on starts as a real problem in my home lab: making systems e
 
 ## Projects
 
-I’m beginning to publish selected projects here under **TechnoCB**.
-
 Coming soon!
 
 ## TechnoCB
-
-This GitHub account is the development home for **TechnoCB**.
 
 Website: coming soon at **technocb.net**
 
