@@ -16,7 +16,7 @@ Most of what I work on starts as a real problem in my home lab: making systems e
 
 I’m beginning to publish selected projects here under **TechnoCB**.
 
-Some projects will remain private while they’re experimental or contain environment-specific details; others will be cleaned up and shared publicly when they’re useful beyond my own lab.
+Coming soon!
 
 ## TechnoCB
 
